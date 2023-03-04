@@ -1,0 +1,17 @@
+Google Fonts:
+
+1. Ubuntu Mono
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+font-family: 'Ubuntu Mono', monospace;
+
+2. Poppins 
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+font-family: 'Poppins', sans-serif;
+
+3. Capriola
+@import url('https://fonts.googleapis.com/css2?family=Capriola&display=swap');
+font-family: 'Capriola', sans-serif;
+
+4. Roboto Flex
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&display=swap');
+font-family: 'Roboto Flex', sans-serif;

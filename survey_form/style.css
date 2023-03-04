@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+body {
+    color:white;
+    width: 100svh;
+    height: 100svh;
+    background: #282828;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-contatiner{
+    width: 400px;
+    height: 700px;
+    
+}
